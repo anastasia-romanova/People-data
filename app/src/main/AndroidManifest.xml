@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".NewFact"></activity>
+        <activity android:name=".Edit"></activity>
+        <activity android:name=".NewPerson"></activity>
+        <activity android:name=".NewEvent"></activity>
+        <activity android:name=".Settings"></activity>
+        <activity android:name=".History"></activity>
     </application>
 
 </manifest>
